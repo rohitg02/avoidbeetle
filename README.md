@@ -1,2 +1,0 @@
-# avoidbeetle
-Udacity nanodegree project
