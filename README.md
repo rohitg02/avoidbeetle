@@ -4,7 +4,7 @@ frontend-nanodegree-arcade-game
 
 Start playing the game after loading the page
 
-## Play
+## [Play](https://people.cs.clemson.edu/~rohitg/avoidbeetle/)
 
 * Player get three chances to successfully reach to the river
 * Avoid bugs to loose the bugs
